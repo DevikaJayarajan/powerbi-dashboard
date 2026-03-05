@@ -127,7 +127,7 @@ Some key observations from the dashboard include:
 
 ## Project Purpose
 
-This project was created as part of my **Data Analytics portfolio** to demonstrate skills in:
+This project was created as part of my **Data Analytics portfolio** to demonstrate:
 
 * Business Intelligence
 * Data Visualization
@@ -143,7 +143,6 @@ Data Analyst | SQL | Power BI | Python
 Master of Data Science – RMIT University
 
 ---
- Name it:
 
 
 
