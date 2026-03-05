@@ -139,6 +139,7 @@ This project was created as part of my **Data Analytics portfolio** to demonstra
 ## Author
 
 **Devika Jayaraj**
+
 Data Analyst | SQL | Power BI | Python
 Master of Data Science – RMIT University
 
